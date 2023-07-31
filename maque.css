@@ -221,7 +221,7 @@ background: #E9FAE3;
 .gauche .icon1{
       width: 55px;
       height: 50px;
-      background: #b1fc96;
+      background:#339E18 ;
       border-bottom-left-radius: 20px;
      display: flex;
      justify-content: center;
@@ -230,7 +230,7 @@ background: #E9FAE3;
 .gauche .icone2{
   width: 55px;
   height: 50px;
-  background: #b1fc96;
+  background: #339E18;
   margin-left: 20px;
   border-bottom-left-radius: 20px;
   display: flex;
@@ -585,7 +585,7 @@ margin-top: 40px;
 .medecin{
     width:790px ;
     height: 350px;
-    background: url(image/wysiwyg-uploads_1569586526901-doctor.jpg);
+    background: url(image/medecin\ .jpg);
     background-size: cover;
     background-position: center;
     margin-left: 300px;
@@ -616,7 +616,7 @@ margin-top: 40px;
   .foods .food1 .repas{
     width: 240px;
     height: 180px;
-    background: url(image/How-to-know-if-a-food-is-healthy.jpg);
+    background: url(image/photo_5924856842113106733_w.jpg);
     border-radius: 50px;
     background-size: cover;
     background-position: center;
